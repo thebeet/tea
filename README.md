@@ -1,3 +1,3 @@
 # tea
 
-TEA (The Entity Architect) 是一个PHP框架下帮助实现业务实体对象与数据持久化层逻辑分离解耦的框架。
+TEA (The Entity Architect) 是一个用PHP实现的业务实体对象与数据持久化层逻辑分离解耦的框架。与传统的ORM框架不同，TEA能在数据库等持久化层之上额外增加一层抽象，保证业务与数据库表完全解耦。
